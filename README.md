@@ -1,5 +1,5 @@
 # Wreeper's Beginner Resources
-Hello! Before we are getting started, I'd like to introduce myself. I'm most commonly online known as Wreeper, having a site at https://wreeper.com/, and at the moment of writing this I'm currently a student having information technology as both a study objective and a hobby. After writing personalized advice for a classmate who later decided that gaming is better than trying to learn something, I thought that maybe instead of trying to continue to help a single person, I should improve my list a bit and put it on GitHub so that eventually someone may find it useful too.
+Hello! Before we are getting started, I'd like to introduce myself. I'm most commonly online known as Wreeper, having a site at https://wreeper.com/, and at the moment of writing this I'm currently a student having information technology as both a study objective and a hobby. After writing personalized advice for someone who later decided that gaming is better than trying to learn something, I thought that maybe instead of trying to continue to help a single person, I should improve my list a bit and put it on GitHub so that eventually someone may find it useful too.
 
 This is not exactly a tutorial, but rather a list of tools and/or projects I compiled together that may already or may not already be well-known so you get to have a starting point. I have been working on this list when I found time and motivation to do so, and I recommend that you experiment getting stuff done alone after getting examples and documenting yourself well enough so you get actual hands-on experience.
 
@@ -83,6 +83,7 @@ Tunnelling is very important, especially if you plan to host services from your 
 | ---- | ------- | ---- |
 | **WireGuard** | General purpose VPN technology and tunnel to setup yourself | [wireguard.com](https://www.wireguard.com/) |
 | **Cloudflare Tunnel** | Tunnel designed to connect origin servers to Cloudflare without opening the ports up to the Internet | [developers.cloudflare.com](https://developers.cloudflare.com/tunnel/) |
+| **Tailscale** | Mesh VPN based on WireGuard with two-factor authentication | [tailscale.com](https://tailscale.com/) |
 ## Having issues
 You're looking for something? Perhaps a fix to your issue? Below are some places that helped me get around.
 | Name | Description | Link |
